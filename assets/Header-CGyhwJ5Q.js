@@ -1,1 +1,0 @@
-import"./react-Cu9bd8lq.js";import{j as e,a as s}from"./index-BvF76Eih.js";const t=()=>e.jsxs("header",{className:"header",children:[e.jsx(s,{className:"header-link",to:"/",children:"Главная"}),e.jsx(s,{className:"header-link",to:"/products",children:"Продукты"})]});export{t as H};

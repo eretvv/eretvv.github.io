@@ -39,3 +39,8 @@
     align-items: center;
   }
   
+  @media (max-width: 768px) {
+    .pagination{
+      justify-content: center;
+    }
+}

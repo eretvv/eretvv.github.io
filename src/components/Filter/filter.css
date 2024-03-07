@@ -65,3 +65,13 @@
     cursor: pointer;  
   }
   
+  @media (max-width: 768px) {
+    #priceRange {
+     display: none;
+    }
+    .productList-filter-box{
+      margin-left: -100px;
+      padding: 0;
+      width: 300px;
+    }
+}

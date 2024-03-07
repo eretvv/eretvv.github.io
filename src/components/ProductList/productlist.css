@@ -39,4 +39,27 @@
     color: rgb(255, 255, 255);
     font-size: 18px;
   }
-  
+  @media (max-width: 768px) {
+    .product-main {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      
+    }
+    .productList {
+        width: 100%;
+        justify-content: center;
+    }
+
+    .productList-title {
+        font-size: 18px;
+        width: 50%;
+        height: 40px; 
+    }
+
+    .productList-sort {
+       display: none;
+      
+    }
+}
