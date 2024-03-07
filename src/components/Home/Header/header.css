@@ -1,0 +1,14 @@
+.header{
+    height: 80px;
+    box-shadow: 2px 2px 12px rgb(122, 122, 122);
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+   
+}
+.header-link{
+    color: white;
+    text-decoration: none;
+    font-size: 24px;
+    margin-left: 20px;
+}
