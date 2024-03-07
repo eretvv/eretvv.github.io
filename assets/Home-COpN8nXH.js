@@ -1,0 +1,1 @@
+import"./react-Cu9bd8lq.js";import{j as r}from"./index-13Mmpg1h.js";import{H as t}from"./Header-CT6zAEtU.js";import"./react-dom-D7N--9_z.js";const i=()=>r.jsxs(r.Fragment,{children:[r.jsx(t,{}),r.jsx("div",{children:"Главная страница"})]});export{i as default};
