@@ -1,4 +1,4 @@
-import React, { useEffect, useCallback } from 'react';
+import { useEffect, useCallback } from 'react';
 import axios from 'axios';
 import Header from '../Home/Header/Header';
 import Loading from '../Loading/Loading';

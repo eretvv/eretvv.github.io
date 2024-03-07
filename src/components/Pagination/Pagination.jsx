@@ -1,4 +1,3 @@
-import React from 'react';
 import './pagination.css';
 
 function Pagination({ currentPage, totalPages, goToPrevPage, goToNextPage }) {
